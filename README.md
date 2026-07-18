@@ -2,7 +2,7 @@
 
 A responsive civic-engagement landing-page concept for Ekiti, presenting citizen feedback channels, community initiatives, government updates, and partner content.
 
-- **Live demo:** https://echo-bishop1.vercel.app
+- **Deployment status:** the previous Vercel deployment currently requires authentication and is not presented as a public demo.
 - **Source:** https://github.com/GlitchingghosT/echo-civic-engagement-concept
 
 ## Project scope
